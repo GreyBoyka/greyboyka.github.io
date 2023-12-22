@@ -120,6 +120,8 @@ footer.page-footer {
 
 .todo-details {
   margin-bottom: 0;
+  font-size: xx-small;
+  color: darkgrey;
 }
 
 .todo-actions {
