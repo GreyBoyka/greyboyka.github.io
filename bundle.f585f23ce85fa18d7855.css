@@ -57,6 +57,10 @@ p {
   color: #26a69a;
 }
 
+.sidenav-width {
+    width: 50%;
+}
+
 .parallax-container {
   min-height: 380px;
   line-height: 0;
